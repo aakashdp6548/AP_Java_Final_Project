@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="20" height="15" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="tile" tilewidth="64" tileheight="64">
+  <image source="../tile.png" width="634" height="490"/>
+  <terraintypes>
+   <terrain name="New Terrain" tile="1"/>
+  </terraintypes>
+ </tileset>
+ <tileset firstgid="64" name="Schooltile" tilewidth="64" tileheight="64">
+  <image source="../Schooltile.png" width="640" height="448"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="20" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AU0BMwYhFjorsrsAMuKtBcSHxqAwA8RABy
+  </data>
+ </layer>
+</map>
